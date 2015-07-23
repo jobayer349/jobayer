@@ -1,0 +1,2 @@
+# jobayer
+software developer
